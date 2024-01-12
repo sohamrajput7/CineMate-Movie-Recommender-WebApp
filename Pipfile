@@ -46,6 +46,7 @@ urllib3 = "==2.1.0"
 wcwidth = "==0.2.12"
 werkzeug = "==3.0.1"
 flask-login = "*"
+gunicorn = "*"
 
 [dev-packages]
 
